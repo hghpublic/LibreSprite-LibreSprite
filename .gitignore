@@ -24,3 +24,6 @@ build
 /.cache/
 *~
 /android/
+
+# macOS
+.DS_Store
